@@ -1,0 +1,3 @@
+C:\Hard Drive\College\Semester 4\JavaScript Frameworks\Lab-2\Lab2\comp2068-lab2-2\comp2068-lab2\lab-2\obj\Debug\lab-2.njsprojAssemblyReference.cache
+C:\Hard Drive\College\Semester 4\JavaScript Frameworks\Lab-2\Lab2\comp2068-lab2-2\comp2068-lab2\lab-2\obj\Debug\lab-2.njsproj.CoreCompileInputs.cache
+C:\Hard Drive\College\Semester 4\JavaScript Frameworks\Lab-2\Lab2\comp2068-lab2-2\comp2068-lab2\lab-2\bin\Microsoft.NodejsTools.WebRole.dll
